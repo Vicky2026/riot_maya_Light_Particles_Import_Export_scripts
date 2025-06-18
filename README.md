@@ -1,11 +1,11 @@
-riot_maya_Light_Particles_Import_Export_scripts
+![Snipaste_2025-06-18_18-29-17](https://github.com/user-attachments/assets/cf453cd0-a38c-48a7-a245-443b5e68e62a)riot_maya_Light_Particles_Import_Export_scripts
 A maya script for importing League of Legends Light.dat and Particles.dat file data, and exporting the location of map Particles.
 
 Copy an entire maya folder to your document directory.
 ![Snipaste_2025-06-18_17-50-27](https://github.com/user-attachments/assets/25bcbd0b-2eab-48a3-a2fb-d127ddfad032)
 
-Check the script name in the window plug-in manager, and the toolbar and shelf buttons will appear.
-![Snipaste_2025-06-18_17-52-54](https://github.com/user-attachments/assets/14c548a0-034f-4dbb-a844-c3b4f61f5835)
+ the script name in the window plug-in manager, and the toolbar and shelf buttons will appear.
+![Snipaste_2025-06-18_18-29-17](https://github.com/user-attachments/assets/45a678f0-ff0a-4ba7-a1c0-f838ea503b85)
 
 Button 1 Import lighting data
 ![1](https://github.com/user-attachments/assets/a7b6e5c9-39e9-4a2f-9fe7-2808ddd678da)
