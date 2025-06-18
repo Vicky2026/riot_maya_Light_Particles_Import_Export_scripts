@@ -21,7 +21,7 @@ Button 3 Export map particle position data to bin Button 3 does not force you to
 al effects you need to appear in that set of dragon soul when exporting, which means that it appears in all dragon soul maps.
 ![8](https://github.com/user-attachments/assets/853c3b9c-556c-407f-902b-2048b9cdd6bf)
 ![5](https://github.com/user-attachments/assets/158f0385-4ced-4c1c-9bba-8294985a0a37)
-
+![7](https://github.com/user-attachments/assets/02459110-0e4d-4bf4-a650-5f3cd9bd0d32)
 
 
 
